@@ -1,0 +1,75 @@
+
+/* ***** URGENTE ***** */
+
+/* Fecha de entrega 18/04 */
+/* Cosas para Hacer ¡OJO! */
+/* Arreglar las carpetas */
+/* Cambiar foto por avatar */
+/* Cambiar los colores en la paleta de colores*/
+/* Buscar y cambiar iconos */
+/* Arreglar los botones REPOSITORIO Y DEMO */
+/* Responsi Mirar medidas */
+
+
+:root {
+    --color-primario: antiquewhite;
+    --color-verde: #167f92;  /* Barra de navegación */
+    --color-dos: #72cdd42a;    /* Sobre mí*/
+
+    --color-ceniza1: #333333;
+    
+    --color-tres: #333333;
+    --color-cuatro: #2b2929;
+    --color-cinco: #0D0D0D;
+
+
+    --background-blanco: #F5F5F5;
+    
+    --color-ceniza1: #333333;
+    --color-ceniza2: #2b2929;
+
+    --color-mirar1:#424242;
+    --color-mirar2:#9b4444;
+    
+
+    --primary:#3DCFD3;
+    --dark:#161616;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+
+}
+
+*{
+    scroll-behavior: smooth; /* Suavisado del Scroll o desplazamiento */
+}
+
+
+ol,
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+input,
+button,
+textarea {
+    color: var(--color-quinto);
+    border: none;
+    outline: none;
+}

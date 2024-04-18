@@ -1,0 +1,16 @@
+.menu{
+    display: flex;
+/* Color barra de navegación */
+     
+    justify-content: space-between;
+    padding: 2rem 2rem;  
+}
+@media (max-width:425px) {
+    .menu{
+        padding: 0.5rem 1rem;
+    }
+    
+}
+
+
+/* Color barra de navegación */
